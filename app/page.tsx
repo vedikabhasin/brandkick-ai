@@ -134,7 +134,7 @@ export default function StartupNameGenerator() {
   return (
     <div className="container mx-auto px-4 py-12 max-w-4xl">
       <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold tracking-tight mb-2">Startup Starter :o</h1>
+        <h1 className="text-4xl font-bold tracking-tight mb-2">Startup Starter</h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">Get names and instantly check for domain availability</p>
       </div>
 
