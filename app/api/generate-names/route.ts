@@ -25,12 +25,12 @@ export async function POST(request: Request) {
     // Define tone descriptions
     const toneDescriptions = {
       creative: "creative, innovative, and original",
-      luxury: "luxurious, high-end, and sophisticated",
-      playful: "fun, playful, and approachable",
+      luxury: "premium, sophisticated, and high-end",
+      playful: "fun, whimsical, and approachable",
       vcbait: "venture capital friendly, disruptive, and scalable",
-      magical: "magical, enchanting, and whimsical",
-      practical: "practical, straightforward, and functional",
-      inclusive: "inclusive, welcoming, and community-oriented",
+      magical: "enchanting, mystical, and captivating",
+      practical: "straightforward, functional, and reliable",
+      inclusive: "welcoming, diverse, and community-oriented",
     }
 
     // Get the tone description
