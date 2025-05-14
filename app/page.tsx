@@ -157,7 +157,7 @@ export default function StartupNameGenerator() {
             <div>
               <Input
                 id="description"
-                placeholder="e.g., AI-powered tracking tool for alcoholics to track their intake"
+                placeholder="e.g., AI-powered intake tracking tool for alcoholics no not damage society with their obession :p"
                 value={description}
                 onChange={(e) => setDescription(e.target.value)}
                 className="w-full"
